@@ -5,3 +5,10 @@ Download
 
 <h4>Build 34</h4>
 - pozicovani CU_Payload_Length
+
+<h4>Build 35</h4>
+<h5>ESP</h5>
+- navýšeni stacku pro websocket z 2000 -> 4000
+- oprava zobrazeni baterie pro monitor
+<h5>STM</h5>
+- pridane vypisy
