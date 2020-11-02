@@ -12,3 +12,11 @@ Download
 - oprava zobrazeni baterie pro monitor
 <h5>STM</h5>
 - pridane vypisy
+
+<h4>Build 36</h4>
+<h5>ESP</h5>
+- oprava RX bufferu
+- posilani signalu
+<h5>STM</h5>
+- oprava RX bufferu
+- posilani signalu
