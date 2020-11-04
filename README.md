@@ -20,3 +20,7 @@ Download
 <h5>STM</h5>
 - oprava RX bufferu
 - posilani signalu
+
+<h4>Build 37</h4>
+<h5>ESP</h5>
+- blize nespecifikovane upravy Honzi S. na reconect Wifi
