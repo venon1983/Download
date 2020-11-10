@@ -24,3 +24,10 @@ Download
 <h4>Build 37</h4>
 <h5>ESP</h5>
 - blize nespecifikovane upravy Honzi S. na reconect Wifi
+
+<h4>Build 38</h4>
+<h5>ESP</h5>
+- oprava posilani Impedance, Napeti zeme, Oprava Faults
+<h5>STM</h5>
+- oprava posilani Impedance, Napeti zeme, Oprava Faults
+- zahrnuti uprav pro advance setup
