@@ -31,3 +31,11 @@ Download
 <h5>STM</h5>
 - oprava posilani Impedance, Napeti zeme, Oprava Faults
 - zahrnuti uprav pro advance setup
+
+<h4>Build 39</h4>
+<h5>ESP</h5>
+- Novy SW pro STM
+<h5>STM</h5>
+- oprava bugu na silny signalu
+- oprava BarLine
+- oprava navratu obrazovky po remotePairing
