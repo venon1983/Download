@@ -39,3 +39,13 @@ Download
 - oprava bugu na silny signalu
 - oprava BarLine
 - oprava navratu obrazovky po remotePairing
+
+<h4>Build 40</h4>
+<h5>ESP</h5>
+- predelani blokovani odesilani logu na chyby na serveru
+- 20 sec timeout na blok serveru
+- nova verze STM
+<h5>STM</h5>
+- oprava posilani stejneho PackageId
+- OutOfRange je nastavovan pres = a ne pres |=
+- oprava dat z energy
