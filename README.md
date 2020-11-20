@@ -49,3 +49,43 @@ Download
 - oprava posilani stejneho PackageId
 - OutOfRange je nastavovan pres = a ne pres |=
 - oprava dat z energy
+
+<h4>Build 41</h4>
+<h5>ESP</h5>
+- nova verze STM
+*json_parser.c*
+
+- pri eventu LOG_CREATED, Internal server error, ostatnich errorech  se posila do STM log finished cimz se odblokovava komunikace na refresh hodnot
+
+*rs232.c*
+
+- oprava posilani "--" na VOLTAGE_FENCE
+- oprava posilani "--" na LOW_THRESHOLD
+- oprava posilani "--" na SET STATE
+
+*rs232.h*
+
+- novy CMD ->RS232_TX_CMD_LOG_FINISHED					0x1B
+*timers.c*
+
+- pri timeoutu 20 sec na odpoved pri logu posila do STM log finished cimz se odblokovava komunikace na refresh hodnot
+
+<h5>STM</h5>
+
+*json_parser.c*
+
+- pri eventu LOG_CREATED, Internal server error, ostatnich errorech  se posila do STM log finished cimz se odblokovava komunikace na refresh hodnot
+
+*rs232.c*
+
+- oprava posilani "--" na VOLTAGE_FENCE
+- oprava posilani "--" na LOW_THRESHOLD
+- oprava posilani "--" na SET STATE
+
+*rs232.h*
+
+- novy CMD ->RS232_TX_CMD_LOG_FINISHED					0x1B
+
+*timers.c*
+
+- pri timeoutu 20 sec na odpoved pri logu posila do STM log finished cimz se odblokovava komunikace na refresh hodnot
