@@ -89,3 +89,34 @@ Download
 *timers.c*
 
 - pri timeoutu 20 sec na odpoved pri logu posila do STM log finished cimz se odblokovava komunikace na refresh hodnot
+
+<h4>Build 42</h4>
+<h5>ESP</h5>
+<h5>STM</h5>
+
+<i><b>Cloud_Uart</i></b>
+
+- pokud se resetuje ESP behem vybirani quelle -> Neodesle se nic a na RTT se vypise log
+- pridavani zprav do RTT -> CMD_END_CONFIG
+- pokud je FrameCounter == 1 je na cloud posilan opakovace (jako jedinny)
+- pokud CU_Payload_Length > 100 do RTT se vypise Error
+
+<i><b>ProcessCoreTask.c</i></b>
+
+- Pokud se odesila Our Of Range posila se s FrameCounterem = 1
+
+<i><b>TaskCore.c</i></b>
+
+- Out of range se posila v pripade ze zadne jine zarizeni neposila, co kazdych 15 minut
+
+<i><b>proced.h</i></b>
+
+- cteni HW verze desky
+
+<i><b>main.c</i></b>
+
+- globalni promenna HW_Version
+
+<i><b>Update submodul SX1262 - 1.04</i></b>
+
+- podpora noveho krystalu pro desky GAT01-RFS-08
