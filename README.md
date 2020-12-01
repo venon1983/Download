@@ -120,3 +120,14 @@ Download
 <i><b>Update submodul SX1262 - 1.04</i></b>
 
 - podpora noveho krystalu pro desky GAT01-RFS-08
+
+<h4>Build 42</h4>
+<h5>ESP</h5>
+- novy build <b>stm 1.96</b>
+<h5>STM</h5>
+
+- oprava timeoutu nekomunikace se slavy
+- pridani rolovani textu
+- oprava posilani signalu
+- oprava posilani impedance
+- pridane posilani nazvu do radia
