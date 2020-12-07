@@ -131,3 +131,49 @@ Download
 - oprava posilani signalu
 - oprava posilani impedance
 - pridane posilani nazvu do radia
+
+<h4>Build 44</h4>
+<h5>ESP</h5>
+- build 0.35
+- bugfix memcpy zaporneho cisla
+
+<h5>STM - ASW : build 2.00</h5>
+
+<i><b>LCDTask</i></b>
+
+- uprava grafiky aby se zobrazila sila prijateho testovaciho signalu
+
+<i><b>TaskCore</i></b>
+
+- Zakazani  generovani "nahodne" mac adresy v pripade 0 ulozene -> reseno primov bootloaderu
+
+<i><b>TaskCloud</i></b>
+
+- oprava pretypovani pointru (kvuli warningu)
+
+<i><b>Cloud Uart</i></b>
+
+- includovani watchdog controleru iwdg.h
+- zapis SSID + PASSW probiha pres cyklus + obnova watchdogu
+- pokud jsem na strankach QR_AP_SCEEN + QR_ADD_SCREEN a dojde k pripojeni na wifi stranka se zavre
+- Odstraneni nepouzivane fce CU_Rx_CMD_Parsing
+
+<h5>STM - BSW : build 2.16</h5>
+
+- vypisy chyb 
+- HW 0x81 - MAC 0
+- HW 0x82 - MAC Spatny format
+- HW 0x83 - MAC reserva
+- HW 0x41 - ASW version 0
+- HW 0x42 - CRC wrong
+- zobrazeni MAC adresy
+- zobrazeni ze se jedna o CRC skipera
+
+
+
+
+
+
+
+
+
