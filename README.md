@@ -170,6 +170,17 @@ Download
 - zobrazeni ze se jedna o CRC skipera
 
 
+<h4>Build 44</h4>
+
+<h5>ESP</h5>
+
+<h5>STM - ASW : build 2.01</h5>
+
+- zapnuti WatchDogu
+
+
+
+
 
 
 
