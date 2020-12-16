@@ -178,6 +178,25 @@ Download
 
 - zapnuti WatchDogu
 
+<h4>Build 45</h4>
+
+<h5>ESP</h5>
+
+<h5>STM - ASW : build 2.01</h5>
+
+- vypnuti WatchDogu
+
+<h4>Build 46</h4>
+
+<h5>ESP</h5>
+
+- pridani prepinace na devel / release sandbox
+
+<h5>STM - ASW : build 2.10</h5>
+
+- implementace vetve 426, 422
+
+
 
 
 
