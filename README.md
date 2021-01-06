@@ -197,6 +197,16 @@ Download
 - implementace vetve 426, 422
 
 
+<h4>Build 48</h4>
+
+<h5>ESP 38</h5>
+
+- Pridani moznosti pripojit se k nezabezpecene wifi
+
+<h5>STM - ASW : build 2.20</h5>
+
+- implementace vetve 431,435,433,434
+
 
 
 
