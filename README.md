@@ -219,6 +219,20 @@ Download
 - implementace vetve 436
 
 
+<h4>Build 50</h4>
+
+<h5>ESP 39</h5>
+
+<h5>STM - ASW : build 2.22</h5>
+
+- implementace vetve 438
+- popisky ke QR kodu
+
+<h5>STM - BSW : build 2.17</h5>
+
+- implementace spravy napeti
+
+
 
 
 
