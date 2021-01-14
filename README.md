@@ -233,6 +233,25 @@ Download
 - implementace spravy napeti
 
 
+<h4>Build 51</h4>
+
+<h5>ESP 40</h5>
+- novy kryptovaci klic
+
+-nahodne cislo
+
+<h5>STM - ASW : build 2.23</h5>
+
+- implementace vetve 440
+- sleep mode
+- novy kryptovaci klic
+
+<h5>STM - BSW : build 2.18</h5>
+
+- implementace vetve 441
+- novy kryptovaci klic
+
+
 
 
 
