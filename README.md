@@ -253,6 +253,13 @@ Download
 
 
 
+<h4>Build 52</h4>
+
+<h5>ESP 41</h5>
+- zrychleni poslani zmeny
+
+
+
 
 
 
