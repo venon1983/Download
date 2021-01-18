@@ -259,6 +259,26 @@ Download
 - zrychleni poslani zmeny
 
 
+<h4>Build 53</h4>
+
+<h5>ESP 42</h5>
+- uprava rychlosti posilani
+
+<h5>STM - ASW : build 2.24</h5>
+
+- implementace vetve 442, 443
+- oprava powerManagmentu
+- oprava rolovani textu
+- doplneni textu pro Blocking log, RQ Blocking log
+
+<h5>STM - BSW : build 2.19</h5>
+
+- oprava zapisu do eeprom
+
+
+
+
+
 
 
 
