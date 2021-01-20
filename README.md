@@ -276,6 +276,18 @@ Download
 - oprava zapisu do eeprom
 
 
+<h4>Build 54</h4>
+
+<h5>ESP 42</h5>
+- aktualizace submodul
+
+<h5>STM - ASW : build 2.25</h5>
+
+- zobrazeni mac
+
+
+
+
 
 
 
