@@ -292,9 +292,20 @@ Download
 
 - implementace vetve 446
 
-<h5>STM - ASW : build 2.25</h5>
+<h5>STM - ASW : build 2.26</h5>
 
 - implementace vetve 445
+
+
+<h4>Build 56</h4>
+
+<h5>ESP 44</h5>
+
+- pridani impedance MIN, impedance MAX, oprava delky websocket
+
+<h5>STM - ASW : build 2.27</h5>
+
+- implementace vetve 447
 
 
 
