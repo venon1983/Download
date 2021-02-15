@@ -323,6 +323,15 @@ Download
 
 <h5>STM - BSW : build 2.20</h5>
 
+
+<h4>Build 59</h4>
+
+<h5>STM - ASW : build 2.32</h5>
+
+- oprava -> nabidka na novou MAC se zobrazovala na spatnem miste
+
+
+
 - oprava masky
 
 
