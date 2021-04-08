@@ -346,7 +346,13 @@ Download
 - certifikat pro AWS
 - overivani certifikatu
 - priprava na poslani klice po ws
-- sntp 
+- sntp
+
+<h4>Build 61 </h4>
+
+<h5>STM - ASW : build 2.41</h5>
+- oprava zobrazeni main screen
+
 
 
 
