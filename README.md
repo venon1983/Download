@@ -335,6 +335,19 @@ Download
 - oprava masky
 
 
+<h4>Build 60 </h4>
+
+<h5>STM - ASW : build 2.40</h5>
+- 12 zarizeni
+- upgrade pres websocket
+
+<h5>ESP</h5>
+- 12 zarizeni
+- certifikat pro AWS
+- overivani certifikatu
+- priprava na poslani klice po ws
+- sntp 
+
 
 
 
