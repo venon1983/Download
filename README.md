@@ -353,6 +353,11 @@ Download
 <h5>STM - ASW : build 2.41</h5>
 - oprava zobrazeni main screen
 
+<h4>Build 62 </h4>
+
+<h5>ESP 46</h5>
+- navýšení buffer
+
 
 
 
