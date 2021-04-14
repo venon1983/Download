@@ -358,6 +358,16 @@ Download
 <h5>ESP 46</h5>
 - navýšení buffer
 
+<h4>Build 63 </h4>
+
+<h5>STM - ASW : build 2.42</h5>
+- Slava test
+- mazani spatne oznaceni
+- spatne rolovani v main menu
+- podparovani monitoru
+- spatne oznaceni
+
+
 
 
 
