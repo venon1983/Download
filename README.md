@@ -367,6 +367,10 @@ Download
 - podparovani monitoru
 - spatne oznaceni
 
+<h4>Build 64 </h4>
+
+<h5>STM - ASW : build 2.43</h5>
+- oprava mazani
 
 
 
