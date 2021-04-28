@@ -378,6 +378,11 @@ Download
 <h5>STM - ASW : build 2.44</h5>
 - opravy
 
+<h4>Build 66</h4>
+
+<h5>STM - ASW : build 2.45</h5>
+- oprava timestamp po zapnuti se nespoustel
+
 
 
 
